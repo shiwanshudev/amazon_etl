@@ -1,6 +1,6 @@
-# Bestseller Books ETL Project
+# Amazon Bestseller Books ETL Project
 
-Welcome to the Bestseller Books ETL pipeline! This project is practical way to explore how to extract data from the web, clean it up, and turn it into something insightful using Python.
+Welcome to the Amazon Bestseller Books ETL pipeline! This project is practical way to explore how to extract data from the web, clean it up, and turn it into something insightful using Python.
 
 We’ll be scraping book data from a multi-page bestseller listing, transforming it with `pandas`, and visualizing trends like how price relates to ratings using `seaborn`.
 
